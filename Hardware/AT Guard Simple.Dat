@@ -1,0 +1,54 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Value~String~Value~100|Field=Voltage~String~Voltage~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|Field=LibRef~String~LibRef~100|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AT Guard Simple.PrjPcb|ReportField=ProjectFullPath~D:\Projeler 2012\AT Guard Simple\Hardware\AT Guard Simple.PrjPcb|ReportField=Title~Bill of Materials For Project [AT Guard Simple.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~80|ReportField=ReportTime~11:39:23 AM|ReportField=ReportDate~1/31/2013|ReportField=ReportDateTime~1/31/2013 11:39:23 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~1/31/2013|ReportField=CurrentTime~11:37:00 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Projeler 2012\AT Guard Simple\Hardware\AT Guard Simple Main.SchDoc|ReportField=DocumentName~AT Guard Simple Main.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~1/23/2013|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AT Guard Simple.PrjPcb|ReportField=DataSourceFullPath~D:\Projeler 2012\AT Guard Simple\Hardware\AT Guard Simple.PrjPcb
+#NAME?|IC OPAMP GP R-R 1MHZ 14TSSOP|||U1|TSSOP-14N|1|LMV324IPWR
+24FC1025-I/SM|1 Mbit, 1MHz, 2.5V, I2C Serial EEPROM, 8-Pin SOIC 208mil, Industrial Temperature|||U2|SOIJ-SM8_N|1|24FC1025-I/SM
+2N7002|N-channel Enhancement Mode Field-effect Transistor|||Q2|SOT23_N|1|2N7002
+78L33ABUTR|Precision 500mA Regulator|||U4|SOT89M|1|78L33ABUTR
+BC817-40|NPN General-purpose Transistor|||Q3|SOT23_N|1|BC817-40
+BSS84|P-channel Enhancement Mode Vertical D-MOSFET|||Q1|SOT23_N|1|BSS84
+Buzzer 5V r=12mm, h=7.5 mm||||B1|Buzzer 9x5.5 mm|1|Buzzer_
+Cap|Capacitor|1.5nF|50V|C5|6-0805_N|1|Cap
+Cap|Capacitor|100pF|50V|C26|3-0603_L|1|Cap
+Cap|Capacitor|10uF|10V|C20|3-0603_L|1|Cap
+Cap|Capacitor|10uF|6.3V|C13|3-0603_L|1|Cap
+Cap|Capacitor|180nF|50V|C10|6-0805_N|1|Cap
+Cap|Capacitor|180pF|50V|C28|6-0805_N|1|Cap
+Cap|Capacitor|220pF|50V|C9|6-0805_N|1|Cap
+Cap|Capacitor|4.7nF|50V|C3|6-0805_N|1|Cap
+Cap|Capacitor|470nF|50V|C2|3-0603_L|1|Cap
+CAP-Tantal|Tantamount Military, Surface Mount MIL-PRF-55365/8 Qualified Solid Tantalum Chip Capacitor: 6.8uF, 20% Tolerance, 6 WVDC @ +85°C, Surge = 8V|220uF|6.3V|C22|C|1|CAP-Tantal
+Crystal Oscillator|Crystal Oscillator|12MHz||Y1|4x2.5mm & 3.2x2.5 mm SMD CRYSTAL - duplicate|1|Crystal Oscillator
+Header 5pin|Header 5-Pin|||P1|Header 1.27mm 5P|1|Header 5 pin
+LED|Typical INFRARED GaAs LED|||D2|6-0805 - LED|1|LED
+LIS3DH|3-axis - ±2g analog output “nano” accelerometer|||U8|LGA 16|1|LIS3DH
+LL4148|1 Amp General Purpose Rectifier|||D1|DL-35 - S|1|LL4148
+MCP79402|MCP79402 RTC,I2C|||U6|TSSOP-ST8_M|1|MCP79402
+PIC18LF14K50-I/SS|High Performance, Enhanced FLASH Microcontroller with 10-Bit A/D and nanoWatt Technology, 8K FLASH, 20-Pin SSOP, Standard Volt Range, Industrial Temperature|||U3|SSOP-20|1|PIC18LF14K50-I/SS
+PRTR5V0U2X|Ultra low capacitance double rail-to-rail ESD protection diode|||U9|SOT-143B|1|PRTR5V0U2X
+Res1|Resistor|10K||R7|6-0805_N|1|Res1
+Res1|Resistor|1K||R25|3-0603_N|1|Res1
+Res1|Resistor|1M||R16|6-0805_N|1|Res1
+Res1|Resistor|2.2K||R8|6-0805_N|1|Res1
+Res1|Resistor|22R||R21|6-0805_N|1|Res1
+Res1|Resistor|4.3M||R3|6-0805_N|1|Res1
+Res1|Resistor|4.7K||R11|6-0805_N|1|Res1
+Res1|Resistor|47R||R17|3-0603_L|1|Res1
+Res1|Resistor|47R||R4|3-0603_N|1|Res1
+Res1|Resistor|51K||R10|6-0805_N|1|Res1
+USB Mini B|USB Mini B|||P2|USB Mini B Female_N 2|1|USB Mini B
+Cap|Capacitor|100nF|50V|C1, C27|3-0603_N|2|Cap
+Cap|Capacitor|2.2nF|50V|C4, C7|6-0805_N|2|Cap
+Cap|Capacitor|22pF|50V|C14, C15|3-0603_L|2|Cap
+Header 10|Header, 10-Pin|||P5, P6|Header 1.27mm 10P|2|Header 10
+Header 2H|Header, 2-Pin, Right Angle|||P3, P4|HDR1X2H-180 derece|2|Header 2H
+Res1|Resistor|0R||R22, R23|3-0603_L|2|Res1
+Res1|Resistor|100K||R14, R26|3-0603_L|2|Res1
+Res1|Resistor|150K||R18, R24|3-0603_L|2|Res1
+Res1|Resistor|220K||R1, R2|6-0805_N|2|Res1
+XTAL_SMT|Crystal Oscillator|||Y2, Y3|32768 SMT 2.1x6.2mm Crystal|2|XTAL_SMT
+BAT54C|2x200 mA Shottky Rectifier|||D3, D4, D5|SOT23_N|3|BAT54C
+Cap|Capacitor|1nF|50V|C6, C8, C11|6-0805_N|3|Cap
+Res1|Resistor|10K||R12, R13, R15|3-0603_L|3|Res1
+Res1|Resistor|1K||R19, R20, R27|3-0603_L|3|Res1
+Res1|Resistor|3.6K||R5, R6, R9|6-0805_N|3|Res1
+Cap|Capacitor|18pF|50V|C16, C17, C24, C25|3-0603_L|4|Cap
+Cap|Capacitor|100nF|50V|C12, C18, C19, C21, C23|3-0603_L|5|Cap

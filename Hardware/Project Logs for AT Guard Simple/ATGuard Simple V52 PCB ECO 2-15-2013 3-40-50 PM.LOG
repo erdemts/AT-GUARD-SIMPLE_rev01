@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=+VBAT Pin=C22-1
+Removed Pin From Net: NetName=NetC20_2 Pin=D5-2
+Removed Pin From Net: NetName=NetC20_2 Pin=P2-1
+Removed Pin From Net: NetName=+VBAT Pin=P3-1
+Removed Pin From Net: NetName=NetC20_2 Pin=R18-2
+Removed Pin From Net: NetName=NetC20_2 Pin=U9-4
+Removed Member From Class: ClassName=AT Guard Simple Main Member=D5
+Added Component: Designator=R28(3-0603_L)
+Added Pin To Net: NetName=NetC20_2 Pin=D5-3
+Added Pin To Net: NetName=+VBAT Pin=R28-2
+Added Pin To Net: NetName=+VBATINPUT Pin=C22-1
+Added Pin To Net: NetName=+VBATINPUT Pin=D3-1
+Added Pin To Net: NetName=+VBATINPUT Pin=P3-1
+Added Pin To Net: NetName=+VBATINPUT Pin=R28-1
+Added Net: Name=+VBATINPUT
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=P2-1
+Added Pin To Net: NetName=NetD5_2 Pin=R15-2
+Added Pin To Net: NetName=NetD5_2 Pin=R18-2
+Added Pin To Net: NetName=NetD5_2 Pin=U9-4
+Added Net: Name=NetD5_2
+Added Member To Class: ClassName=AT Guard Simple Power Member=Component D5 BAT54C
+Added Member To Class: ClassName=AT Guard Simple Power Member=Component R28 Res1
+Added Room: Name=AT Guard Simple Main
+Added Room: Name=AT Guard Simple Memory
+Added Room: Name=AT Guard Simple Mems
+Added Room: Name=AT Guard Simple Power
+Added Room: Name=AT Guard Simple RTC
+Added Room: Name=RF_125KHz

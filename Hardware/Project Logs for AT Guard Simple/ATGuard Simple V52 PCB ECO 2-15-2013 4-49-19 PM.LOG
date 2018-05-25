@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C13 Old Footprint=3-0603_N New Footprint=3-0603_L
+Added Room: Name=AT Guard Simple Main
+Added Room: Name=AT Guard Simple Memory
+Added Room: Name=AT Guard Simple Mems
+Added Room: Name=AT Guard Simple Power
+Added Room: Name=AT Guard Simple RTC
+Added Room: Name=RF_125KHz

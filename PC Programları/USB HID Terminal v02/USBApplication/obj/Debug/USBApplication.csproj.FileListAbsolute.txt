@@ -1,0 +1,18 @@
+c:\users\yusuferdogan\documents\visual studio 2012\Projects\USBApplication\USBApplication\bin\Debug\USBApplication.exe.config
+c:\users\yusuferdogan\documents\visual studio 2012\Projects\USBApplication\USBApplication\bin\Debug\USBApplication.exe
+c:\users\yusuferdogan\documents\visual studio 2012\Projects\USBApplication\USBApplication\bin\Debug\USBApplication.pdb
+c:\users\yusuferdogan\documents\visual studio 2012\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.csprojResolveAssemblyReference.cache
+c:\users\yusuferdogan\documents\visual studio 2012\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.Form1.resources
+c:\users\yusuferdogan\documents\visual studio 2012\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.Properties.Resources.resources
+c:\users\yusuferdogan\documents\visual studio 2012\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.csproj.GenerateResource.Cache
+c:\users\yusuferdogan\documents\visual studio 2012\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.exe
+c:\users\yusuferdogan\documents\visual studio 2012\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.pdb
+D:\07012013Yedekler\Projects\USBApplication\USBApplication\bin\Debug\USBApplication.exe.config
+D:\07012013Yedekler\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.exe
+D:\07012013Yedekler\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.pdb
+D:\07012013Yedekler\Projects\USBApplication\USBApplication\bin\Debug\USBApplication.exe
+D:\07012013Yedekler\Projects\USBApplication\USBApplication\bin\Debug\USBApplication.pdb
+D:\07012013Yedekler\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.csprojResolveAssemblyReference.cache
+D:\07012013Yedekler\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.Form1.resources
+D:\07012013Yedekler\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.Properties.Resources.resources
+D:\07012013Yedekler\Projects\USBApplication\USBApplication\obj\Debug\USBApplication.csproj.GenerateResource.Cache

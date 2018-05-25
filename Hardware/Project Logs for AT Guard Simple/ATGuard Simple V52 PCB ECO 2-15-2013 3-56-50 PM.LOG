@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+VBATINPUT Pin=D6-1
+Added Pin To Net: NetName=+VBATINPUT Pin=D6-2
+Added Room: Name=AT Guard Simple Power

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=7 Pin=R4-1
+Removed Pin From Net: NetName=6 Pin=R20-2
+Added Pin To Net: NetName=6 Pin=R4-1
+Added Pin To Net: NetName=7 Pin=R20-2
+Added Room: Name=AT Guard Simple Main
+Added Room: Name=AT Guard Simple Memory
+Added Room: Name=AT Guard Simple Mems
+Added Room: Name=AT Guard Simple Power
+Added Room: Name=AT Guard Simple RTC
+Added Room: Name=RF_125KHz

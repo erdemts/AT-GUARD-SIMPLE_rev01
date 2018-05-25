@@ -1,0 +1,10 @@
+Added Component: Designator=C27(3-0603_N)
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=+VBAT Pin=C27-2
+Added Member To Class: ClassName=RF_125KHz Member=Component C27 Cap
+Added Room: Name=AT Guard Simple Main
+Added Room: Name=AT Guard Simple Memory
+Added Room: Name=AT Guard Simple Mems
+Added Room: Name=AT Guard Simple Power
+Added Room: Name=AT Guard Simple RTC
+Added Room: Name=RF_125KHz

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC20_2 Pin=R15-2
+Added Pin To Net: NetName=+VUSB Pin=R15-2
+Added Room: Name=AT Guard Simple Main
+Added Room: Name=AT Guard Simple Memory
+Added Room: Name=AT Guard Simple Mems
+Added Room: Name=AT Guard Simple Power
+Added Room: Name=AT Guard Simple RTC
+Added Room: Name=RF_125KHz

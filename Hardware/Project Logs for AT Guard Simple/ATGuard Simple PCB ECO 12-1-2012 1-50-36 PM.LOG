@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=B1 Old Footprint=Buzzer_ New Footprint=Buzzer 9x5.5 mm
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X2H-90 derece New Footprint=HDR1X2H-180 derece
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X2H-90 derece New Footprint=HDR1X2H-180 derece
+Change Component Footprint: Designator=P5 Old Footprint=HDR1X10 New Footprint=Header 1.27mm 10P
+Change Component Footprint: Designator=P6 Old Footprint=HDR1X10 New Footprint=Header 1.27mm 10P
+Change Component Footprint: Designator=P1 Old Footprint=Header 2mm 5Pin New Footprint=Header 1.27mm 5P
+Change Component Footprint: Designator=D2 Old Footprint=LED New Footprint=6-0805 - LED
+Change Component Footprint: Designator=P2 Old Footprint=USB Mini B Female - Connfly DS1104 New Footprint=USB Mini B Female_N

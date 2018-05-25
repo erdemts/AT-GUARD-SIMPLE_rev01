@@ -1,0 +1,495 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+D6         SOT23_N              103.95mm         5.4mm      103.95mm         5.4mm         105mm        4.45mm  T        180.00 BAT54C         
+R28        6-0805_N            103.975mm        8.55mm     103.975mm        8.55mm     104.975mm        8.55mm  T        180.00 Res1           
+C28        6-0805_N              45.25mm        4.27mm       45.25mm        4.27mm       45.25mm        5.27mm  T        270.00 Cap            
+P4         HDR1X2H-180_derece      46.625mm         9.1mm      46.625mm         9.1mm      46.625mm        7.83mm  T         90.00 Header 2H      
+P3         HDR1X2H-180_derece      100.85mm        13.9mm      100.85mm        13.9mm      100.85mm       12.63mm  T         90.00 Header 2H      
+Q2         SOT23_N                40.7mm         5.1mm        40.7mm         5.1mm       39.75mm        4.05mm  T         90.00 2N7002         
+Q1         SOT23_N                40.7mm       9.225mm        40.7mm       9.225mm       39.75mm       8.175mm  T         90.00 BSS84          
+R24        3-0603_L              87.25mm        13.3mm       87.25mm        13.3mm        86.4mm        13.3mm  T        360.00 Res1           
+C1         3-0603_N            59.2999mm        10.1mm     59.2999mm        10.1mm     58.4499mm        10.1mm  T          0.00 Cap            
+C12        3-0603_L              72.35mm         4.9mm       72.35mm         4.9mm        71.5mm         4.9mm  T        360.00 Cap            
+C13        3-0603_L              88.95mm         3.7mm       88.95mm         3.7mm       88.95mm        2.85mm  T         90.00 Cap            
+C18        3-0603_L              91.95mm         5.7mm       91.95mm         5.7mm        92.8mm         5.7mm  T        180.00 Cap            
+C22        C                   99.5999mm         6.3mm     99.5999mm         6.3mm     99.5999mm         3.8mm  T         90.00 CAP-Tantal     
+C24        3-0603_L              95.95mm        13.9mm       95.95mm        13.9mm       95.95mm       13.05mm  T         90.00 Cap            
+C25        3-0603_L              93.65mm        13.9mm       93.65mm        13.9mm       93.65mm       13.05mm  T         90.00 Cap            
+D2         6-0805_-_LED           21.5mm         9.4mm        21.5mm         9.4mm       22.55mm         9.4mm  T        180.00 LED            
+P1         Header_1.27mm_5P      68.325mm       9.215mm      68.325mm       6.675mm      68.325mm       6.675mm  T         90.00 Header 5pin    
+P5         Header_1.27mm_10P      77.965mm         2.9mm       72.25mm         2.9mm       72.25mm         2.9mm  T        360.00 Header 10      
+P6         Header_1.27mm_10P      77.965mm        15.9mm       72.25mm        15.9mm       72.25mm        15.9mm  T        360.00 Header 10      
+Q3         SOT23_N                26.7mm        6.85mm        26.7mm        6.85mm       27.75mm         5.9mm  T        180.00 BC817-40       
+R4         3-0603_N            62.5999mm        10.1mm     62.5999mm        10.1mm     63.4499mm        10.1mm  T        180.00 Res1           
+R12        3-0603_L              90.25mm        13.3mm       90.25mm        13.3mm        89.4mm        13.3mm  T        360.00 Res1           
+R13        3-0603_L              85.85mm         9.2mm       85.85mm         9.2mm       85.85mm       10.05mm  T        270.00 Res1           
+R14        3-0603_L              72.35mm         6.3mm       72.35mm         6.3mm        71.5mm         6.3mm  T        360.00 Res1           
+R17        3-0603_L              87.45mm         3.7mm       87.45mm         3.7mm       87.45mm        2.85mm  T         90.00 Res1           
+R19        3-0603_L                 27mm        10.4mm          27mm        10.4mm       26.15mm        10.4mm  T        360.00 Res1           
+R20        3-0603_L             29.775mm       6.875mm      29.775mm       6.875mm      29.775mm       6.025mm  T         90.00 Res1           
+U2         SOIJ-SM8_N            91.95mm         9.4mm       91.95mm         9.4mm       95.35mm       7.495mm  T        180.00 24FC1025-I/SM  
+U3         SSOP-20               77.95mm         9.4mm       77.95mm         9.4mm      75.025mm       6.125mm  T          0.00 PIC18LF14K50-I/SS
+Y2         32768_SMT_2.1x6.2mm_Crystal       83.95mm         6.2mm       83.95mm         6.2mm       85.22mm         6.2mm  T        180.00 XTAL_SMT       
+C3         6-0805_N            50.2999mm         3.5mm     50.2999mm         3.5mm     49.2999mm         3.5mm  T        360.00 Cap            
+C5         6-0805_N            47.4099mm        4.27mm     47.4099mm        4.27mm     47.4099mm        5.27mm  T        270.00 Cap            
+C7         6-0805_N            49.3999mm         8.5mm     49.3999mm         8.5mm     49.3999mm         9.5mm  T        270.00 Cap            
+C8         6-0805_N            55.3999mm         4.2mm     55.3999mm         4.2mm     55.3999mm         5.2mm  T        270.00 Cap            
+R5         6-0805_N            50.2999mm         5.6mm     50.2999mm         5.6mm     51.2999mm         5.6mm  T        180.00 Res1           
+R6         6-0805_N            54.4999mm           7mm     54.4999mm           7mm     55.4999mm           7mm  T        180.00 Res1           
+R9         6-0805_N            53.2999mm         4.2mm     53.2999mm         4.2mm     53.2999mm         3.2mm  T         90.00 Res1           
+R10        6-0805_N            51.4999mm         8.5mm     51.4999mm         8.5mm     51.4999mm         7.5mm  T         90.00 Res1           
+R21        6-0805_N               43.8mm       9.975mm        43.8mm       9.975mm        43.8mm      10.975mm  T        270.00 Res1           
+U1         TSSOP-14N           61.6999mm           6mm     61.6999mm           6mm     58.8499mm        7.95mm  T          0.00 #NAME?         
+R25        3-0603_N             71.425mm       9.875mm      71.425mm       9.875mm      71.425mm       9.025mm  T         90.00 Res1           
+P2         USB_Mini_B_Female_N_2       12.55mm         9.4mm        12.4mm         9.4mm        15.4mm          11mm  T        270.00 USB Mini B     
+D4         SOT23_N               99.85mm         9.2mm       99.85mm         9.2mm       100.9mm       10.15mm  B        180.00 BAT54C         
+D3         SOT23_N             35.5501mm         6.3mm     35.5501mm         6.3mm     34.5001mm        5.35mm  B        360.00 BAT54C         
+C27        3-0603_N             44.575mm         3.5mm      44.575mm         3.5mm      45.425mm         3.5mm  B        180.00 Cap            
+R27        3-0603_L              91.55mm          10mm       91.55mm          10mm        92.4mm          10mm  B        180.00 Res1           
+C26        3-0603_L              91.55mm        11.3mm       91.55mm        11.3mm        92.4mm        11.3mm  B        180.00 Cap            
+C2         3-0603_L             70.525mm      15.075mm      70.525mm      15.075mm      70.525mm      14.225mm  B         90.00 Cap            
+C14        3-0603_L             74.875mm         6.7mm      74.875mm         6.7mm      74.875mm        5.85mm  B         90.00 Cap            
+C15        3-0603_L              81.35mm         6.7mm       81.35mm         6.7mm       81.35mm        7.55mm  B        270.00 Cap            
+C16        3-0603_L              84.45mm         9.3mm       84.45mm         9.3mm       84.45mm       10.15mm  B        270.00 Cap            
+C17        3-0603_L              82.65mm         9.3mm       82.65mm         9.3mm       82.65mm       10.15mm  B        270.00 Cap            
+R18        3-0603_L              10.35mm         6.4mm       10.35mm         6.4mm        11.2mm         6.4mm  B        180.00 Res1           
+U6         TSSOP-ST8_M           88.35mm        13.6mm       88.35mm        13.6mm       91.25mm      14.575mm  B        180.00 MCP79402       
+U8         LGA_16                89.25mm        5.95mm       89.25mm        5.95mm      88.025mm        4.95mm  B        360.00 LIS3DH         
+U9         SOT-143B               10.4mm        9.36mm        10.4mm        9.35mm        9.65mm       10.57mm  B         90.00 PRTR5V0U2X     
+Y1         4x2.5mm_&_3.2x2.5_mm_SMD_CRYSTAL_-_duplicate      78.125mm       6.675mm      78.125mm       6.675mm      76.725mm       7.625mm  B        360.00 Crystal Oscillator
+Y3         32768_SMT_2.1x6.2mm_Crystal       94.95mm        13.9mm       94.95mm        13.9mm       96.22mm        13.9mm  B        180.00 XTAL_SMT       
+B1         Buzzer_9x5.5_mm        21.5mm         9.4mm        21.5mm         9.4mm        21.5mm       11.94mm  B        270.00 Buzzer 5V r=12mm, h=7.5 mm
+C4         6-0805_N            50.2999mm           7mm     50.2999mm           7mm     49.2999mm           7mm  B        360.00 Cap            
+C6         6-0805_N            51.3999mm         4.2mm     51.3999mm         4.2mm     51.3999mm         5.2mm  B        270.00 Cap            
+C9         6-0805_N            55.5999mm         8.1mm     55.5999mm         8.1mm     55.5999mm         7.1mm  B         90.00 Cap            
+C10        6-0805_N            59.2999mm         5.3mm     59.2999mm         5.3mm     58.2999mm         5.3mm  B        360.00 Cap            
+C11        6-0805_N            60.9999mm         8.2mm     60.9999mm         8.2mm     60.9999mm         7.2mm  B         90.00 Cap            
+D1         DL-35_-_S             45.15mm         5.3mm       45.15mm         5.3mm      43.425mm         5.3mm  B        360.00 LL4148         
+R1         6-0805_N            63.3999mm         8.2mm     63.3999mm         8.2mm     63.3999mm         7.2mm  B         90.00 Res1           
+R2         6-0805_N            53.4999mm         8.1mm     53.4999mm         8.1mm     53.4999mm         9.1mm  B        270.00 Res1           
+R3         6-0805_N            53.4999mm         4.2mm     53.4999mm         4.2mm     53.4999mm         5.2mm  B        270.00 Res1           
+R7         6-0805_N            50.2999mm         9.1mm     50.2999mm         9.1mm     51.2999mm         9.1mm  B        180.00 Res1           
+R8         6-0805_N            55.5999mm         4.2mm     55.5999mm         4.2mm     55.5999mm         5.2mm  B        270.00 Res1           
+R11        6-0805_N            58.5999mm         8.2mm     58.5999mm         8.2mm     58.5999mm         7.2mm  B         90.00 Res1           
+R16        6-0805_N            49.2999mm         4.2mm     49.2999mm         4.2mm     49.2999mm         3.2mm  B         90.00 Res1           
+R26        3-0603_L             76.625mm        12.8mm      76.625mm        12.8mm      75.775mm        12.8mm  B        360.00 Res1           
+C19        3-0603_L               92.5mm        3.65mm        92.5mm        3.65mm        92.5mm         2.8mm  B         90.00 Cap            
+C23        3-0603_L              87.25mm        16.3mm       87.25mm        16.3mm        86.4mm        16.3mm  B        360.00 Cap            
+R22        3-0603_L              85.65mm         3.6mm       85.65mm         3.6mm       85.65mm        4.45mm  B        270.00 Res1           
+R23        3-0603_L              87.95mm         2.8mm       87.95mm         2.8mm        88.8mm         2.8mm  B        180.00 Res1           
+C20        3-0603_L            29.3001mm       10.25mm     29.3001mm       10.25mm     29.3001mm        11.1mm  B        270.00 Cap            
+C21        3-0603_L            36.6751mm       10.25mm     36.6751mm       10.25mm     36.6751mm        11.1mm  B        270.00 Cap            
+R15        3-0603_L              43.25mm      14.975mm       43.25mm      14.975mm        44.1mm      14.975mm  B        180.00 Res1           
+U4         SOT89M              33.0001mm      10.925mm     33.0001mm      11.375mm     34.5001mm       9.475mm  B         90.00 78L33ABUTR     
+D5         SOT23_N              27.675mm       13.55mm      27.675mm       13.55mm      26.725mm        14.6mm  B        270.00 BAT54C         
+D6         SOT23_N              103.95mm        24.6mm      103.95mm        24.6mm         105mm       23.65mm  T        180.00 BAT54C         
+R28        6-0805_N            103.975mm       27.75mm     103.975mm       27.75mm     104.975mm       27.75mm  T        180.00 Res1           
+C28        6-0805_N              45.25mm       23.47mm       45.25mm       23.47mm       45.25mm       24.47mm  T        270.00 Cap            
+P4         HDR1X2H-180_derece      46.625mm        28.3mm      46.625mm        28.3mm      46.625mm       27.03mm  T         90.00 Header 2H      
+P3         HDR1X2H-180_derece      100.85mm        33.1mm      100.85mm        33.1mm      100.85mm       31.83mm  T         90.00 Header 2H      
+Q2         SOT23_N                40.7mm        24.3mm        40.7mm        24.3mm       39.75mm       23.25mm  T         90.00 2N7002         
+Q1         SOT23_N                40.7mm      28.425mm        40.7mm      28.425mm       39.75mm      27.375mm  T         90.00 BSS84          
+R24        3-0603_L              87.25mm        32.5mm       87.25mm        32.5mm        86.4mm        32.5mm  T        360.00 Res1           
+C1         3-0603_N            59.2999mm        29.3mm     59.2999mm        29.3mm     58.4499mm        29.3mm  T          0.00 Cap            
+C12        3-0603_L              72.35mm        24.1mm       72.35mm        24.1mm        71.5mm        24.1mm  T        360.00 Cap            
+C13        3-0603_L              88.95mm        22.9mm       88.95mm        22.9mm       88.95mm       22.05mm  T         90.00 Cap            
+C18        3-0603_L              91.95mm        24.9mm       91.95mm        24.9mm        92.8mm        24.9mm  T        180.00 Cap            
+C22        C                   99.5999mm        25.5mm     99.5999mm        25.5mm     99.5999mm          23mm  T         90.00 CAP-Tantal     
+C24        3-0603_L              95.95mm        33.1mm       95.95mm        33.1mm       95.95mm       32.25mm  T         90.00 Cap            
+C25        3-0603_L              93.65mm        33.1mm       93.65mm        33.1mm       93.65mm       32.25mm  T         90.00 Cap            
+D2         6-0805_-_LED           21.5mm        28.6mm        21.5mm        28.6mm       22.55mm        28.6mm  T        180.00 LED            
+P1         Header_1.27mm_5P      68.325mm      28.415mm      68.325mm      25.875mm      68.325mm      25.875mm  T         90.00 Header 5pin    
+P5         Header_1.27mm_10P      77.965mm        22.1mm       72.25mm        22.1mm       72.25mm        22.1mm  T        360.00 Header 10      
+P6         Header_1.27mm_10P      77.965mm        35.1mm       72.25mm        35.1mm       72.25mm        35.1mm  T        360.00 Header 10      
+Q3         SOT23_N                26.7mm       26.05mm        26.7mm       26.05mm       27.75mm        25.1mm  T        180.00 BC817-40       
+R4         3-0603_N            62.5999mm        29.3mm     62.5999mm        29.3mm     63.4499mm        29.3mm  T        180.00 Res1           
+R12        3-0603_L              90.25mm        32.5mm       90.25mm        32.5mm        89.4mm        32.5mm  T        360.00 Res1           
+R13        3-0603_L              85.85mm        28.4mm       85.85mm        28.4mm       85.85mm       29.25mm  T        270.00 Res1           
+R14        3-0603_L              72.35mm        25.5mm       72.35mm        25.5mm        71.5mm        25.5mm  T        360.00 Res1           
+R17        3-0603_L              87.45mm        22.9mm       87.45mm        22.9mm       87.45mm       22.05mm  T         90.00 Res1           
+R19        3-0603_L                 27mm        29.6mm          27mm        29.6mm       26.15mm        29.6mm  T        360.00 Res1           
+R20        3-0603_L             29.775mm      26.075mm      29.775mm      26.075mm      29.775mm      25.225mm  T         90.00 Res1           
+U2         SOIJ-SM8_N            91.95mm        28.6mm       91.95mm        28.6mm       95.35mm      26.695mm  T        180.00 24FC1025-I/SM  
+U3         SSOP-20               77.95mm        28.6mm       77.95mm        28.6mm      75.025mm      25.325mm  T          0.00 PIC18LF14K50-I/SS
+Y2         32768_SMT_2.1x6.2mm_Crystal       83.95mm        25.4mm       83.95mm        25.4mm       85.22mm        25.4mm  T        180.00 XTAL_SMT       
+C3         6-0805_N            50.2999mm        22.7mm     50.2999mm        22.7mm     49.2999mm        22.7mm  T        360.00 Cap            
+C5         6-0805_N            47.4099mm       23.47mm     47.4099mm       23.47mm     47.4099mm       24.47mm  T        270.00 Cap            
+C7         6-0805_N            49.3999mm        27.7mm     49.3999mm        27.7mm     49.3999mm        28.7mm  T        270.00 Cap            
+C8         6-0805_N            55.3999mm        23.4mm     55.3999mm        23.4mm     55.3999mm        24.4mm  T        270.00 Cap            
+R5         6-0805_N            50.2999mm        24.8mm     50.2999mm        24.8mm     51.2999mm        24.8mm  T        180.00 Res1           
+R6         6-0805_N            54.4999mm        26.2mm     54.4999mm        26.2mm     55.4999mm        26.2mm  T        180.00 Res1           
+R9         6-0805_N            53.2999mm        23.4mm     53.2999mm        23.4mm     53.2999mm        22.4mm  T         90.00 Res1           
+R10        6-0805_N            51.4999mm        27.7mm     51.4999mm        27.7mm     51.4999mm        26.7mm  T         90.00 Res1           
+R21        6-0805_N               43.8mm      29.175mm        43.8mm      29.175mm        43.8mm      30.175mm  T        270.00 Res1           
+U1         TSSOP-14N           61.6999mm        25.2mm     61.6999mm        25.2mm     58.8499mm       27.15mm  T          0.00 #NAME?         
+R25        3-0603_N             71.425mm      29.075mm      71.425mm      29.075mm      71.425mm      28.225mm  T         90.00 Res1           
+P2         USB_Mini_B_Female_N_2       12.55mm        28.6mm        12.4mm        28.6mm        15.4mm        30.2mm  T        270.00 USB Mini B     
+D4         SOT23_N               99.85mm        28.4mm       99.85mm        28.4mm       100.9mm       29.35mm  B        180.00 BAT54C         
+D3         SOT23_N             35.5501mm        25.5mm     35.5501mm        25.5mm     34.5001mm       24.55mm  B        360.00 BAT54C         
+C27        3-0603_N             44.575mm        22.7mm      44.575mm        22.7mm      45.425mm        22.7mm  B        180.00 Cap            
+R27        3-0603_L              91.55mm        29.2mm       91.55mm        29.2mm        92.4mm        29.2mm  B        180.00 Res1           
+C26        3-0603_L              91.55mm        30.5mm       91.55mm        30.5mm        92.4mm        30.5mm  B        180.00 Cap            
+C2         3-0603_L             70.525mm      34.275mm      70.525mm      34.275mm      70.525mm      33.425mm  B         90.00 Cap            
+C14        3-0603_L             74.875mm        25.9mm      74.875mm        25.9mm      74.875mm       25.05mm  B         90.00 Cap            
+C15        3-0603_L              81.35mm        25.9mm       81.35mm        25.9mm       81.35mm       26.75mm  B        270.00 Cap            
+C16        3-0603_L              84.45mm        28.5mm       84.45mm        28.5mm       84.45mm       29.35mm  B        270.00 Cap            
+C17        3-0603_L              82.65mm        28.5mm       82.65mm        28.5mm       82.65mm       29.35mm  B        270.00 Cap            
+R18        3-0603_L              10.35mm        25.6mm       10.35mm        25.6mm        11.2mm        25.6mm  B        180.00 Res1           
+U6         TSSOP-ST8_M           88.35mm        32.8mm       88.35mm        32.8mm       91.25mm      33.775mm  B        180.00 MCP79402       
+U8         LGA_16                89.25mm       25.15mm       89.25mm       25.15mm      88.025mm       24.15mm  B        360.00 LIS3DH         
+U9         SOT-143B               10.4mm       28.56mm        10.4mm       28.55mm        9.65mm       29.77mm  B         90.00 PRTR5V0U2X     
+Y1         4x2.5mm_&_3.2x2.5_mm_SMD_CRYSTAL_-_duplicate      78.125mm      25.875mm      78.125mm      25.875mm      76.725mm      26.825mm  B        360.00 Crystal Oscillator
+Y3         32768_SMT_2.1x6.2mm_Crystal       94.95mm        33.1mm       94.95mm        33.1mm       96.22mm        33.1mm  B        180.00 XTAL_SMT       
+B1         Buzzer_9x5.5_mm        21.5mm        28.6mm        21.5mm        28.6mm        21.5mm       31.14mm  B        270.00 Buzzer 5V r=12mm, h=7.5 mm
+C4         6-0805_N            50.2999mm        26.2mm     50.2999mm        26.2mm     49.2999mm        26.2mm  B        360.00 Cap            
+C6         6-0805_N            51.3999mm        23.4mm     51.3999mm        23.4mm     51.3999mm        24.4mm  B        270.00 Cap            
+C9         6-0805_N            55.5999mm        27.3mm     55.5999mm        27.3mm     55.5999mm        26.3mm  B         90.00 Cap            
+C10        6-0805_N            59.2999mm        24.5mm     59.2999mm        24.5mm     58.2999mm        24.5mm  B        360.00 Cap            
+C11        6-0805_N            60.9999mm        27.4mm     60.9999mm        27.4mm     60.9999mm        26.4mm  B         90.00 Cap            
+D1         DL-35_-_S             45.15mm        24.5mm       45.15mm        24.5mm      43.425mm        24.5mm  B        360.00 LL4148         
+R1         6-0805_N            63.3999mm        27.4mm     63.3999mm        27.4mm     63.3999mm        26.4mm  B         90.00 Res1           
+R2         6-0805_N            53.4999mm        27.3mm     53.4999mm        27.3mm     53.4999mm        28.3mm  B        270.00 Res1           
+R3         6-0805_N            53.4999mm        23.4mm     53.4999mm        23.4mm     53.4999mm        24.4mm  B        270.00 Res1           
+R7         6-0805_N            50.2999mm        28.3mm     50.2999mm        28.3mm     51.2999mm        28.3mm  B        180.00 Res1           
+R8         6-0805_N            55.5999mm        23.4mm     55.5999mm        23.4mm     55.5999mm        24.4mm  B        270.00 Res1           
+R11        6-0805_N            58.5999mm        27.4mm     58.5999mm        27.4mm     58.5999mm        26.4mm  B         90.00 Res1           
+R16        6-0805_N            49.2999mm        23.4mm     49.2999mm        23.4mm     49.2999mm        22.4mm  B         90.00 Res1           
+R26        3-0603_L             76.625mm          32mm      76.625mm          32mm      75.775mm          32mm  B        360.00 Res1           
+C19        3-0603_L               92.5mm       22.85mm        92.5mm       22.85mm        92.5mm          22mm  B         90.00 Cap            
+C23        3-0603_L              87.25mm        35.5mm       87.25mm        35.5mm        86.4mm        35.5mm  B        360.00 Cap            
+R22        3-0603_L              85.65mm        22.8mm       85.65mm        22.8mm       85.65mm       23.65mm  B        270.00 Res1           
+R23        3-0603_L              87.95mm          22mm       87.95mm          22mm        88.8mm          22mm  B        180.00 Res1           
+C20        3-0603_L            29.3001mm       29.45mm     29.3001mm       29.45mm     29.3001mm        30.3mm  B        270.00 Cap            
+C21        3-0603_L            36.6751mm       29.45mm     36.6751mm       29.45mm     36.6751mm        30.3mm  B        270.00 Cap            
+R15        3-0603_L              43.25mm      34.175mm       43.25mm      34.175mm        44.1mm      34.175mm  B        180.00 Res1           
+U4         SOT89M              33.0001mm      30.125mm     33.0001mm      30.575mm     34.5001mm      28.675mm  B         90.00 78L33ABUTR     
+D5         SOT23_N              27.675mm       32.75mm      27.675mm       32.75mm      26.725mm        33.8mm  B        270.00 BAT54C         
+D6         SOT23_N              103.95mm        43.8mm      103.95mm        43.8mm         105mm       42.85mm  T        180.00 BAT54C         
+R28        6-0805_N            103.975mm       46.95mm     103.975mm       46.95mm     104.975mm       46.95mm  T        180.00 Res1           
+C28        6-0805_N              45.25mm       42.67mm       45.25mm       42.67mm       45.25mm       43.67mm  T        270.00 Cap            
+P4         HDR1X2H-180_derece      46.625mm        47.5mm      46.625mm        47.5mm      46.625mm       46.23mm  T         90.00 Header 2H      
+P3         HDR1X2H-180_derece      100.85mm        52.3mm      100.85mm        52.3mm      100.85mm       51.03mm  T         90.00 Header 2H      
+Q2         SOT23_N                40.7mm        43.5mm        40.7mm        43.5mm       39.75mm       42.45mm  T         90.00 2N7002         
+Q1         SOT23_N                40.7mm      47.625mm        40.7mm      47.625mm       39.75mm      46.575mm  T         90.00 BSS84          
+R24        3-0603_L              87.25mm        51.7mm       87.25mm        51.7mm        86.4mm        51.7mm  T        360.00 Res1           
+C1         3-0603_N            59.2999mm        48.5mm     59.2999mm        48.5mm     58.4499mm        48.5mm  T          0.00 Cap            
+C12        3-0603_L              72.35mm        43.3mm       72.35mm        43.3mm        71.5mm        43.3mm  T        360.00 Cap            
+C13        3-0603_L              88.95mm        42.1mm       88.95mm        42.1mm       88.95mm       41.25mm  T         90.00 Cap            
+C18        3-0603_L              91.95mm        44.1mm       91.95mm        44.1mm        92.8mm        44.1mm  T        180.00 Cap            
+C22        C                   99.5999mm        44.7mm     99.5999mm        44.7mm     99.5999mm        42.2mm  T         90.00 CAP-Tantal     
+C24        3-0603_L              95.95mm        52.3mm       95.95mm        52.3mm       95.95mm       51.45mm  T         90.00 Cap            
+C25        3-0603_L              93.65mm        52.3mm       93.65mm        52.3mm       93.65mm       51.45mm  T         90.00 Cap            
+D2         6-0805_-_LED           21.5mm        47.8mm        21.5mm        47.8mm       22.55mm        47.8mm  T        180.00 LED            
+P1         Header_1.27mm_5P      68.325mm      47.615mm      68.325mm      45.075mm      68.325mm      45.075mm  T         90.00 Header 5pin    
+P5         Header_1.27mm_10P      77.965mm        41.3mm       72.25mm        41.3mm       72.25mm        41.3mm  T        360.00 Header 10      
+P6         Header_1.27mm_10P      77.965mm        54.3mm       72.25mm        54.3mm       72.25mm        54.3mm  T        360.00 Header 10      
+Q3         SOT23_N                26.7mm       45.25mm        26.7mm       45.25mm       27.75mm        44.3mm  T        180.00 BC817-40       
+R4         3-0603_N            62.5999mm        48.5mm     62.5999mm        48.5mm     63.4499mm        48.5mm  T        180.00 Res1           
+R12        3-0603_L              90.25mm        51.7mm       90.25mm        51.7mm        89.4mm        51.7mm  T        360.00 Res1           
+R13        3-0603_L              85.85mm        47.6mm       85.85mm        47.6mm       85.85mm       48.45mm  T        270.00 Res1           
+R14        3-0603_L              72.35mm        44.7mm       72.35mm        44.7mm        71.5mm        44.7mm  T        360.00 Res1           
+R17        3-0603_L              87.45mm        42.1mm       87.45mm        42.1mm       87.45mm       41.25mm  T         90.00 Res1           
+R19        3-0603_L                 27mm        48.8mm          27mm        48.8mm       26.15mm        48.8mm  T        360.00 Res1           
+R20        3-0603_L             29.775mm      45.275mm      29.775mm      45.275mm      29.775mm      44.425mm  T         90.00 Res1           
+U2         SOIJ-SM8_N            91.95mm        47.8mm       91.95mm        47.8mm       95.35mm      45.895mm  T        180.00 24FC1025-I/SM  
+U3         SSOP-20               77.95mm        47.8mm       77.95mm        47.8mm      75.025mm      44.525mm  T          0.00 PIC18LF14K50-I/SS
+Y2         32768_SMT_2.1x6.2mm_Crystal       83.95mm        44.6mm       83.95mm        44.6mm       85.22mm        44.6mm  T        180.00 XTAL_SMT       
+C3         6-0805_N            50.2999mm        41.9mm     50.2999mm        41.9mm     49.2999mm        41.9mm  T        360.00 Cap            
+C5         6-0805_N            47.4099mm       42.67mm     47.4099mm       42.67mm     47.4099mm       43.67mm  T        270.00 Cap            
+C7         6-0805_N            49.3999mm        46.9mm     49.3999mm        46.9mm     49.3999mm        47.9mm  T        270.00 Cap            
+C8         6-0805_N            55.3999mm        42.6mm     55.3999mm        42.6mm     55.3999mm        43.6mm  T        270.00 Cap            
+R5         6-0805_N            50.2999mm          44mm     50.2999mm          44mm     51.2999mm          44mm  T        180.00 Res1           
+R6         6-0805_N            54.4999mm        45.4mm     54.4999mm        45.4mm     55.4999mm        45.4mm  T        180.00 Res1           
+R9         6-0805_N            53.2999mm        42.6mm     53.2999mm        42.6mm     53.2999mm        41.6mm  T         90.00 Res1           
+R10        6-0805_N            51.4999mm        46.9mm     51.4999mm        46.9mm     51.4999mm        45.9mm  T         90.00 Res1           
+R21        6-0805_N               43.8mm      48.375mm        43.8mm      48.375mm        43.8mm      49.375mm  T        270.00 Res1           
+U1         TSSOP-14N           61.6999mm        44.4mm     61.6999mm        44.4mm     58.8499mm       46.35mm  T          0.00 #NAME?         
+R25        3-0603_N             71.425mm      48.275mm      71.425mm      48.275mm      71.425mm      47.425mm  T         90.00 Res1           
+P2         USB_Mini_B_Female_N_2       12.55mm        47.8mm        12.4mm        47.8mm        15.4mm        49.4mm  T        270.00 USB Mini B     
+D4         SOT23_N               99.85mm        47.6mm       99.85mm        47.6mm       100.9mm       48.55mm  B        180.00 BAT54C         
+D3         SOT23_N             35.5501mm        44.7mm     35.5501mm        44.7mm     34.5001mm       43.75mm  B        360.00 BAT54C         
+C27        3-0603_N             44.575mm        41.9mm      44.575mm        41.9mm      45.425mm        41.9mm  B        180.00 Cap            
+R27        3-0603_L              91.55mm        48.4mm       91.55mm        48.4mm        92.4mm        48.4mm  B        180.00 Res1           
+C26        3-0603_L              91.55mm        49.7mm       91.55mm        49.7mm        92.4mm        49.7mm  B        180.00 Cap            
+C2         3-0603_L             70.525mm      53.475mm      70.525mm      53.475mm      70.525mm      52.625mm  B         90.00 Cap            
+C14        3-0603_L             74.875mm        45.1mm      74.875mm        45.1mm      74.875mm       44.25mm  B         90.00 Cap            
+C15        3-0603_L              81.35mm        45.1mm       81.35mm        45.1mm       81.35mm       45.95mm  B        270.00 Cap            
+C16        3-0603_L              84.45mm        47.7mm       84.45mm        47.7mm       84.45mm       48.55mm  B        270.00 Cap            
+C17        3-0603_L              82.65mm        47.7mm       82.65mm        47.7mm       82.65mm       48.55mm  B        270.00 Cap            
+R18        3-0603_L              10.35mm        44.8mm       10.35mm        44.8mm        11.2mm        44.8mm  B        180.00 Res1           
+U6         TSSOP-ST8_M           88.35mm          52mm       88.35mm          52mm       91.25mm      52.975mm  B        180.00 MCP79402       
+U8         LGA_16                89.25mm       44.35mm       89.25mm       44.35mm      88.025mm       43.35mm  B        360.00 LIS3DH         
+U9         SOT-143B               10.4mm       47.76mm        10.4mm       47.75mm        9.65mm       48.97mm  B         90.00 PRTR5V0U2X     
+Y1         4x2.5mm_&_3.2x2.5_mm_SMD_CRYSTAL_-_duplicate      78.125mm      45.075mm      78.125mm      45.075mm      76.725mm      46.025mm  B        360.00 Crystal Oscillator
+Y3         32768_SMT_2.1x6.2mm_Crystal       94.95mm        52.3mm       94.95mm        52.3mm       96.22mm        52.3mm  B        180.00 XTAL_SMT       
+B1         Buzzer_9x5.5_mm        21.5mm        47.8mm        21.5mm        47.8mm        21.5mm       50.34mm  B        270.00 Buzzer 5V r=12mm, h=7.5 mm
+C4         6-0805_N            50.2999mm        45.4mm     50.2999mm        45.4mm     49.2999mm        45.4mm  B        360.00 Cap            
+C6         6-0805_N            51.3999mm        42.6mm     51.3999mm        42.6mm     51.3999mm        43.6mm  B        270.00 Cap            
+C9         6-0805_N            55.5999mm        46.5mm     55.5999mm        46.5mm     55.5999mm        45.5mm  B         90.00 Cap            
+C10        6-0805_N            59.2999mm        43.7mm     59.2999mm        43.7mm     58.2999mm        43.7mm  B        360.00 Cap            
+C11        6-0805_N            60.9999mm        46.6mm     60.9999mm        46.6mm     60.9999mm        45.6mm  B         90.00 Cap            
+D1         DL-35_-_S             45.15mm        43.7mm       45.15mm        43.7mm      43.425mm        43.7mm  B        360.00 LL4148         
+R1         6-0805_N            63.3999mm        46.6mm     63.3999mm        46.6mm     63.3999mm        45.6mm  B         90.00 Res1           
+R2         6-0805_N            53.4999mm        46.5mm     53.4999mm        46.5mm     53.4999mm        47.5mm  B        270.00 Res1           
+R3         6-0805_N            53.4999mm        42.6mm     53.4999mm        42.6mm     53.4999mm        43.6mm  B        270.00 Res1           
+R7         6-0805_N            50.2999mm        47.5mm     50.2999mm        47.5mm     51.2999mm        47.5mm  B        180.00 Res1           
+R8         6-0805_N            55.5999mm        42.6mm     55.5999mm        42.6mm     55.5999mm        43.6mm  B        270.00 Res1           
+R11        6-0805_N            58.5999mm        46.6mm     58.5999mm        46.6mm     58.5999mm        45.6mm  B         90.00 Res1           
+R16        6-0805_N            49.2999mm        42.6mm     49.2999mm        42.6mm     49.2999mm        41.6mm  B         90.00 Res1           
+R26        3-0603_L             76.625mm        51.2mm      76.625mm        51.2mm      75.775mm        51.2mm  B        360.00 Res1           
+C19        3-0603_L               92.5mm       42.05mm        92.5mm       42.05mm        92.5mm        41.2mm  B         90.00 Cap            
+C23        3-0603_L              87.25mm        54.7mm       87.25mm        54.7mm        86.4mm        54.7mm  B        360.00 Cap            
+R22        3-0603_L              85.65mm          42mm       85.65mm          42mm       85.65mm       42.85mm  B        270.00 Res1           
+R23        3-0603_L              87.95mm        41.2mm       87.95mm        41.2mm        88.8mm        41.2mm  B        180.00 Res1           
+C20        3-0603_L            29.3001mm       48.65mm     29.3001mm       48.65mm     29.3001mm        49.5mm  B        270.00 Cap            
+C21        3-0603_L            36.6751mm       48.65mm     36.6751mm       48.65mm     36.6751mm        49.5mm  B        270.00 Cap            
+R15        3-0603_L              43.25mm      53.375mm       43.25mm      53.375mm        44.1mm      53.375mm  B        180.00 Res1           
+U4         SOT89M              33.0001mm      49.325mm     33.0001mm      49.775mm     34.5001mm      47.875mm  B         90.00 78L33ABUTR     
+D5         SOT23_N              27.675mm       51.95mm      27.675mm       51.95mm      26.725mm          53mm  B        270.00 BAT54C         
+D6         SOT23_N              103.95mm          63mm      103.95mm          63mm         105mm       62.05mm  T        180.00 BAT54C         
+R28        6-0805_N            103.975mm       66.15mm     103.975mm       66.15mm     104.975mm       66.15mm  T        180.00 Res1           
+C28        6-0805_N              45.25mm       61.87mm       45.25mm       61.87mm       45.25mm       62.87mm  T        270.00 Cap            
+P4         HDR1X2H-180_derece      46.625mm        66.7mm      46.625mm        66.7mm      46.625mm       65.43mm  T         90.00 Header 2H      
+P3         HDR1X2H-180_derece      100.85mm        71.5mm      100.85mm        71.5mm      100.85mm       70.23mm  T         90.00 Header 2H      
+Q2         SOT23_N                40.7mm        62.7mm        40.7mm        62.7mm       39.75mm       61.65mm  T         90.00 2N7002         
+Q1         SOT23_N                40.7mm      66.825mm        40.7mm      66.825mm       39.75mm      65.775mm  T         90.00 BSS84          
+R24        3-0603_L              87.25mm        70.9mm       87.25mm        70.9mm        86.4mm        70.9mm  T        360.00 Res1           
+C1         3-0603_N            59.2999mm        67.7mm     59.2999mm        67.7mm     58.4499mm        67.7mm  T          0.00 Cap            
+C12        3-0603_L              72.35mm        62.5mm       72.35mm        62.5mm        71.5mm        62.5mm  T        360.00 Cap            
+C13        3-0603_L              88.95mm        61.3mm       88.95mm        61.3mm       88.95mm       60.45mm  T         90.00 Cap            
+C18        3-0603_L              91.95mm        63.3mm       91.95mm        63.3mm        92.8mm        63.3mm  T        180.00 Cap            
+C22        C                   99.5999mm        63.9mm     99.5999mm        63.9mm     99.5999mm        61.4mm  T         90.00 CAP-Tantal     
+C24        3-0603_L              95.95mm        71.5mm       95.95mm        71.5mm       95.95mm       70.65mm  T         90.00 Cap            
+C25        3-0603_L              93.65mm        71.5mm       93.65mm        71.5mm       93.65mm       70.65mm  T         90.00 Cap            
+D2         6-0805_-_LED           21.5mm          67mm        21.5mm          67mm       22.55mm          67mm  T        180.00 LED            
+P1         Header_1.27mm_5P      68.325mm      66.815mm      68.325mm      64.275mm      68.325mm      64.275mm  T         90.00 Header 5pin    
+P5         Header_1.27mm_10P      77.965mm        60.5mm       72.25mm        60.5mm       72.25mm        60.5mm  T        360.00 Header 10      
+P6         Header_1.27mm_10P      77.965mm        73.5mm       72.25mm        73.5mm       72.25mm        73.5mm  T        360.00 Header 10      
+Q3         SOT23_N                26.7mm       64.45mm        26.7mm       64.45mm       27.75mm        63.5mm  T        180.00 BC817-40       
+R4         3-0603_N            62.5999mm        67.7mm     62.5999mm        67.7mm     63.4499mm        67.7mm  T        180.00 Res1           
+R12        3-0603_L              90.25mm        70.9mm       90.25mm        70.9mm        89.4mm        70.9mm  T        360.00 Res1           
+R13        3-0603_L              85.85mm        66.8mm       85.85mm        66.8mm       85.85mm       67.65mm  T        270.00 Res1           
+R14        3-0603_L              72.35mm        63.9mm       72.35mm        63.9mm        71.5mm        63.9mm  T        360.00 Res1           
+R17        3-0603_L              87.45mm        61.3mm       87.45mm        61.3mm       87.45mm       60.45mm  T         90.00 Res1           
+R19        3-0603_L                 27mm          68mm          27mm          68mm       26.15mm          68mm  T        360.00 Res1           
+R20        3-0603_L             29.775mm      64.475mm      29.775mm      64.475mm      29.775mm      63.625mm  T         90.00 Res1           
+U2         SOIJ-SM8_N            91.95mm          67mm       91.95mm          67mm       95.35mm      65.095mm  T        180.00 24FC1025-I/SM  
+U3         SSOP-20               77.95mm          67mm       77.95mm          67mm      75.025mm      63.725mm  T          0.00 PIC18LF14K50-I/SS
+Y2         32768_SMT_2.1x6.2mm_Crystal       83.95mm        63.8mm       83.95mm        63.8mm       85.22mm        63.8mm  T        180.00 XTAL_SMT       
+C3         6-0805_N            50.2999mm        61.1mm     50.2999mm        61.1mm     49.2999mm        61.1mm  T        360.00 Cap            
+C5         6-0805_N            47.4099mm       61.87mm     47.4099mm       61.87mm     47.4099mm       62.87mm  T        270.00 Cap            
+C7         6-0805_N            49.3999mm        66.1mm     49.3999mm        66.1mm     49.3999mm        67.1mm  T        270.00 Cap            
+C8         6-0805_N            55.3999mm        61.8mm     55.3999mm        61.8mm     55.3999mm        62.8mm  T        270.00 Cap            
+R5         6-0805_N            50.2999mm        63.2mm     50.2999mm        63.2mm     51.2999mm        63.2mm  T        180.00 Res1           
+R6         6-0805_N            54.4999mm        64.6mm     54.4999mm        64.6mm     55.4999mm        64.6mm  T        180.00 Res1           
+R9         6-0805_N            53.2999mm        61.8mm     53.2999mm        61.8mm     53.2999mm        60.8mm  T         90.00 Res1           
+R10        6-0805_N            51.4999mm        66.1mm     51.4999mm        66.1mm     51.4999mm        65.1mm  T         90.00 Res1           
+R21        6-0805_N               43.8mm      67.575mm        43.8mm      67.575mm        43.8mm      68.575mm  T        270.00 Res1           
+U1         TSSOP-14N           61.6999mm        63.6mm     61.6999mm        63.6mm     58.8499mm       65.55mm  T          0.00 #NAME?         
+R25        3-0603_N             71.425mm      67.475mm      71.425mm      67.475mm      71.425mm      66.625mm  T         90.00 Res1           
+P2         USB_Mini_B_Female_N_2       12.55mm          67mm        12.4mm          67mm        15.4mm        68.6mm  T        270.00 USB Mini B     
+D4         SOT23_N               99.85mm        66.8mm       99.85mm        66.8mm       100.9mm       67.75mm  B        180.00 BAT54C         
+D3         SOT23_N             35.5501mm        63.9mm     35.5501mm        63.9mm     34.5001mm       62.95mm  B        360.00 BAT54C         
+C27        3-0603_N             44.575mm        61.1mm      44.575mm        61.1mm      45.425mm        61.1mm  B        180.00 Cap            
+R27        3-0603_L              91.55mm        67.6mm       91.55mm        67.6mm        92.4mm        67.6mm  B        180.00 Res1           
+C26        3-0603_L              91.55mm        68.9mm       91.55mm        68.9mm        92.4mm        68.9mm  B        180.00 Cap            
+C2         3-0603_L             70.525mm      72.675mm      70.525mm      72.675mm      70.525mm      71.825mm  B         90.00 Cap            
+C14        3-0603_L             74.875mm        64.3mm      74.875mm        64.3mm      74.875mm       63.45mm  B         90.00 Cap            
+C15        3-0603_L              81.35mm        64.3mm       81.35mm        64.3mm       81.35mm       65.15mm  B        270.00 Cap            
+C16        3-0603_L              84.45mm        66.9mm       84.45mm        66.9mm       84.45mm       67.75mm  B        270.00 Cap            
+C17        3-0603_L              82.65mm        66.9mm       82.65mm        66.9mm       82.65mm       67.75mm  B        270.00 Cap            
+R18        3-0603_L              10.35mm          64mm       10.35mm          64mm        11.2mm          64mm  B        180.00 Res1           
+U6         TSSOP-ST8_M           88.35mm        71.2mm       88.35mm        71.2mm       91.25mm      72.175mm  B        180.00 MCP79402       
+U8         LGA_16                89.25mm       63.55mm       89.25mm       63.55mm      88.025mm       62.55mm  B        360.00 LIS3DH         
+U9         SOT-143B               10.4mm       66.96mm        10.4mm       66.95mm        9.65mm       68.17mm  B         90.00 PRTR5V0U2X     
+Y1         4x2.5mm_&_3.2x2.5_mm_SMD_CRYSTAL_-_duplicate      78.125mm      64.275mm      78.125mm      64.275mm      76.725mm      65.225mm  B        360.00 Crystal Oscillator
+Y3         32768_SMT_2.1x6.2mm_Crystal       94.95mm        71.5mm       94.95mm        71.5mm       96.22mm        71.5mm  B        180.00 XTAL_SMT       
+B1         Buzzer_9x5.5_mm        21.5mm          67mm        21.5mm          67mm        21.5mm       69.54mm  B        270.00 Buzzer 5V r=12mm, h=7.5 mm
+C4         6-0805_N            50.2999mm        64.6mm     50.2999mm        64.6mm     49.2999mm        64.6mm  B        360.00 Cap            
+C6         6-0805_N            51.3999mm        61.8mm     51.3999mm        61.8mm     51.3999mm        62.8mm  B        270.00 Cap            
+C9         6-0805_N            55.5999mm        65.7mm     55.5999mm        65.7mm     55.5999mm        64.7mm  B         90.00 Cap            
+C10        6-0805_N            59.2999mm        62.9mm     59.2999mm        62.9mm     58.2999mm        62.9mm  B        360.00 Cap            
+C11        6-0805_N            60.9999mm        65.8mm     60.9999mm        65.8mm     60.9999mm        64.8mm  B         90.00 Cap            
+D1         DL-35_-_S             45.15mm        62.9mm       45.15mm        62.9mm      43.425mm        62.9mm  B        360.00 LL4148         
+R1         6-0805_N            63.3999mm        65.8mm     63.3999mm        65.8mm     63.3999mm        64.8mm  B         90.00 Res1           
+R2         6-0805_N            53.4999mm        65.7mm     53.4999mm        65.7mm     53.4999mm        66.7mm  B        270.00 Res1           
+R3         6-0805_N            53.4999mm        61.8mm     53.4999mm        61.8mm     53.4999mm        62.8mm  B        270.00 Res1           
+R7         6-0805_N            50.2999mm        66.7mm     50.2999mm        66.7mm     51.2999mm        66.7mm  B        180.00 Res1           
+R8         6-0805_N            55.5999mm        61.8mm     55.5999mm        61.8mm     55.5999mm        62.8mm  B        270.00 Res1           
+R11        6-0805_N            58.5999mm        65.8mm     58.5999mm        65.8mm     58.5999mm        64.8mm  B         90.00 Res1           
+R16        6-0805_N            49.2999mm        61.8mm     49.2999mm        61.8mm     49.2999mm        60.8mm  B         90.00 Res1           
+R26        3-0603_L             76.625mm        70.4mm      76.625mm        70.4mm      75.775mm        70.4mm  B        360.00 Res1           
+C19        3-0603_L               92.5mm       61.25mm        92.5mm       61.25mm        92.5mm        60.4mm  B         90.00 Cap            
+C23        3-0603_L              87.25mm        73.9mm       87.25mm        73.9mm        86.4mm        73.9mm  B        360.00 Cap            
+R22        3-0603_L              85.65mm        61.2mm       85.65mm        61.2mm       85.65mm       62.05mm  B        270.00 Res1           
+R23        3-0603_L              87.95mm        60.4mm       87.95mm        60.4mm        88.8mm        60.4mm  B        180.00 Res1           
+C20        3-0603_L            29.3001mm       67.85mm     29.3001mm       67.85mm     29.3001mm        68.7mm  B        270.00 Cap            
+C21        3-0603_L            36.6751mm       67.85mm     36.6751mm       67.85mm     36.6751mm        68.7mm  B        270.00 Cap            
+R15        3-0603_L              43.25mm      72.575mm       43.25mm      72.575mm        44.1mm      72.575mm  B        180.00 Res1           
+U4         SOT89M              33.0001mm      68.525mm     33.0001mm      68.975mm     34.5001mm      67.075mm  B         90.00 78L33ABUTR     
+D5         SOT23_N              27.675mm       71.15mm      27.675mm       71.15mm      26.725mm        72.2mm  B        270.00 BAT54C         
+D6         SOT23_N              103.95mm        82.2mm      103.95mm        82.2mm         105mm       81.25mm  T        180.00 BAT54C         
+R28        6-0805_N            103.975mm       85.35mm     103.975mm       85.35mm     104.975mm       85.35mm  T        180.00 Res1           
+C28        6-0805_N              45.25mm       81.07mm       45.25mm       81.07mm       45.25mm       82.07mm  T        270.00 Cap            
+P4         HDR1X2H-180_derece      46.625mm        85.9mm      46.625mm        85.9mm      46.625mm       84.63mm  T         90.00 Header 2H      
+P3         HDR1X2H-180_derece      100.85mm        90.7mm      100.85mm        90.7mm      100.85mm       89.43mm  T         90.00 Header 2H      
+Q2         SOT23_N                40.7mm        81.9mm        40.7mm        81.9mm       39.75mm       80.85mm  T         90.00 2N7002         
+Q1         SOT23_N                40.7mm      86.025mm        40.7mm      86.025mm       39.75mm      84.975mm  T         90.00 BSS84          
+R24        3-0603_L              87.25mm        90.1mm       87.25mm        90.1mm        86.4mm        90.1mm  T        360.00 Res1           
+C1         3-0603_N            59.2999mm        86.9mm     59.2999mm        86.9mm     58.4499mm        86.9mm  T          0.00 Cap            
+C12        3-0603_L              72.35mm        81.7mm       72.35mm        81.7mm        71.5mm        81.7mm  T        360.00 Cap            
+C13        3-0603_L              88.95mm        80.5mm       88.95mm        80.5mm       88.95mm       79.65mm  T         90.00 Cap            
+C18        3-0603_L              91.95mm        82.5mm       91.95mm        82.5mm        92.8mm        82.5mm  T        180.00 Cap            
+C22        C                   99.5999mm        83.1mm     99.5999mm        83.1mm     99.5999mm        80.6mm  T         90.00 CAP-Tantal     
+C24        3-0603_L              95.95mm        90.7mm       95.95mm        90.7mm       95.95mm       89.85mm  T         90.00 Cap            
+C25        3-0603_L              93.65mm        90.7mm       93.65mm        90.7mm       93.65mm       89.85mm  T         90.00 Cap            
+D2         6-0805_-_LED           21.5mm        86.2mm        21.5mm        86.2mm       22.55mm        86.2mm  T        180.00 LED            
+P1         Header_1.27mm_5P      68.325mm      86.015mm      68.325mm      83.475mm      68.325mm      83.475mm  T         90.00 Header 5pin    
+P5         Header_1.27mm_10P      77.965mm        79.7mm       72.25mm        79.7mm       72.25mm        79.7mm  T        360.00 Header 10      
+P6         Header_1.27mm_10P      77.965mm        92.7mm       72.25mm        92.7mm       72.25mm        92.7mm  T        360.00 Header 10      
+Q3         SOT23_N                26.7mm       83.65mm        26.7mm       83.65mm       27.75mm        82.7mm  T        180.00 BC817-40       
+R4         3-0603_N            62.5999mm        86.9mm     62.5999mm        86.9mm     63.4499mm        86.9mm  T        180.00 Res1           
+R12        3-0603_L              90.25mm        90.1mm       90.25mm        90.1mm        89.4mm        90.1mm  T        360.00 Res1           
+R13        3-0603_L              85.85mm          86mm       85.85mm          86mm       85.85mm       86.85mm  T        270.00 Res1           
+R14        3-0603_L              72.35mm        83.1mm       72.35mm        83.1mm        71.5mm        83.1mm  T        360.00 Res1           
+R17        3-0603_L              87.45mm        80.5mm       87.45mm        80.5mm       87.45mm       79.65mm  T         90.00 Res1           
+R19        3-0603_L                 27mm        87.2mm          27mm        87.2mm       26.15mm        87.2mm  T        360.00 Res1           
+R20        3-0603_L             29.775mm      83.675mm      29.775mm      83.675mm      29.775mm      82.825mm  T         90.00 Res1           
+U2         SOIJ-SM8_N            91.95mm        86.2mm       91.95mm        86.2mm       95.35mm      84.295mm  T        180.00 24FC1025-I/SM  
+U3         SSOP-20               77.95mm        86.2mm       77.95mm        86.2mm      75.025mm      82.925mm  T          0.00 PIC18LF14K50-I/SS
+Y2         32768_SMT_2.1x6.2mm_Crystal       83.95mm          83mm       83.95mm          83mm       85.22mm          83mm  T        180.00 XTAL_SMT       
+C3         6-0805_N            50.2999mm        80.3mm     50.2999mm        80.3mm     49.2999mm        80.3mm  T        360.00 Cap            
+C5         6-0805_N            47.4099mm       81.07mm     47.4099mm       81.07mm     47.4099mm       82.07mm  T        270.00 Cap            
+C7         6-0805_N            49.3999mm        85.3mm     49.3999mm        85.3mm     49.3999mm        86.3mm  T        270.00 Cap            
+C8         6-0805_N            55.3999mm          81mm     55.3999mm          81mm     55.3999mm          82mm  T        270.00 Cap            
+R5         6-0805_N            50.2999mm        82.4mm     50.2999mm        82.4mm     51.2999mm        82.4mm  T        180.00 Res1           
+R6         6-0805_N            54.4999mm        83.8mm     54.4999mm        83.8mm     55.4999mm        83.8mm  T        180.00 Res1           
+R9         6-0805_N            53.2999mm          81mm     53.2999mm          81mm     53.2999mm          80mm  T         90.00 Res1           
+R10        6-0805_N            51.4999mm        85.3mm     51.4999mm        85.3mm     51.4999mm        84.3mm  T         90.00 Res1           
+R21        6-0805_N               43.8mm      86.775mm        43.8mm      86.775mm        43.8mm      87.775mm  T        270.00 Res1           
+U1         TSSOP-14N           61.6999mm        82.8mm     61.6999mm        82.8mm     58.8499mm       84.75mm  T          0.00 #NAME?         
+R25        3-0603_N             71.425mm      86.675mm      71.425mm      86.675mm      71.425mm      85.825mm  T         90.00 Res1           
+P2         USB_Mini_B_Female_N_2       12.55mm        86.2mm        12.4mm        86.2mm        15.4mm        87.8mm  T        270.00 USB Mini B     
+D4         SOT23_N               99.85mm          86mm       99.85mm          86mm       100.9mm       86.95mm  B        180.00 BAT54C         
+D3         SOT23_N             35.5501mm        83.1mm     35.5501mm        83.1mm     34.5001mm       82.15mm  B        360.00 BAT54C         
+C27        3-0603_N             44.575mm        80.3mm      44.575mm        80.3mm      45.425mm        80.3mm  B        180.00 Cap            
+R27        3-0603_L              91.55mm        86.8mm       91.55mm        86.8mm        92.4mm        86.8mm  B        180.00 Res1           
+C26        3-0603_L              91.55mm        88.1mm       91.55mm        88.1mm        92.4mm        88.1mm  B        180.00 Cap            
+C2         3-0603_L             70.525mm      91.875mm      70.525mm      91.875mm      70.525mm      91.025mm  B         90.00 Cap            
+C14        3-0603_L             74.875mm        83.5mm      74.875mm        83.5mm      74.875mm       82.65mm  B         90.00 Cap            
+C15        3-0603_L              81.35mm        83.5mm       81.35mm        83.5mm       81.35mm       84.35mm  B        270.00 Cap            
+C16        3-0603_L              84.45mm        86.1mm       84.45mm        86.1mm       84.45mm       86.95mm  B        270.00 Cap            
+C17        3-0603_L              82.65mm        86.1mm       82.65mm        86.1mm       82.65mm       86.95mm  B        270.00 Cap            
+R18        3-0603_L              10.35mm        83.2mm       10.35mm        83.2mm        11.2mm        83.2mm  B        180.00 Res1           
+U6         TSSOP-ST8_M           88.35mm        90.4mm       88.35mm        90.4mm       91.25mm      91.375mm  B        180.00 MCP79402       
+U8         LGA_16                89.25mm       82.75mm       89.25mm       82.75mm      88.025mm       81.75mm  B        360.00 LIS3DH         
+U9         SOT-143B               10.4mm       86.16mm        10.4mm       86.15mm        9.65mm       87.37mm  B         90.00 PRTR5V0U2X     
+Y1         4x2.5mm_&_3.2x2.5_mm_SMD_CRYSTAL_-_duplicate      78.125mm      83.475mm      78.125mm      83.475mm      76.725mm      84.425mm  B        360.00 Crystal Oscillator
+Y3         32768_SMT_2.1x6.2mm_Crystal       94.95mm        90.7mm       94.95mm        90.7mm       96.22mm        90.7mm  B        180.00 XTAL_SMT       
+B1         Buzzer_9x5.5_mm        21.5mm        86.2mm        21.5mm        86.2mm        21.5mm       88.74mm  B        270.00 Buzzer 5V r=12mm, h=7.5 mm
+C4         6-0805_N            50.2999mm        83.8mm     50.2999mm        83.8mm     49.2999mm        83.8mm  B        360.00 Cap            
+C6         6-0805_N            51.3999mm          81mm     51.3999mm          81mm     51.3999mm          82mm  B        270.00 Cap            
+C9         6-0805_N            55.5999mm        84.9mm     55.5999mm        84.9mm     55.5999mm        83.9mm  B         90.00 Cap            
+C10        6-0805_N            59.2999mm        82.1mm     59.2999mm        82.1mm     58.2999mm        82.1mm  B        360.00 Cap            
+C11        6-0805_N            60.9999mm          85mm     60.9999mm          85mm     60.9999mm          84mm  B         90.00 Cap            
+D1         DL-35_-_S             45.15mm        82.1mm       45.15mm        82.1mm      43.425mm        82.1mm  B        360.00 LL4148         
+R1         6-0805_N            63.3999mm          85mm     63.3999mm          85mm     63.3999mm          84mm  B         90.00 Res1           
+R2         6-0805_N            53.4999mm        84.9mm     53.4999mm        84.9mm     53.4999mm        85.9mm  B        270.00 Res1           
+R3         6-0805_N            53.4999mm          81mm     53.4999mm          81mm     53.4999mm          82mm  B        270.00 Res1           
+R7         6-0805_N            50.2999mm        85.9mm     50.2999mm        85.9mm     51.2999mm        85.9mm  B        180.00 Res1           
+R8         6-0805_N            55.5999mm          81mm     55.5999mm          81mm     55.5999mm          82mm  B        270.00 Res1           
+R11        6-0805_N            58.5999mm          85mm     58.5999mm          85mm     58.5999mm          84mm  B         90.00 Res1           
+R16        6-0805_N            49.2999mm          81mm     49.2999mm          81mm     49.2999mm          80mm  B         90.00 Res1           
+R26        3-0603_L             76.625mm        89.6mm      76.625mm        89.6mm      75.775mm        89.6mm  B        360.00 Res1           
+C19        3-0603_L               92.5mm       80.45mm        92.5mm       80.45mm        92.5mm        79.6mm  B         90.00 Cap            
+C23        3-0603_L              87.25mm        93.1mm       87.25mm        93.1mm        86.4mm        93.1mm  B        360.00 Cap            
+R22        3-0603_L              85.65mm        80.4mm       85.65mm        80.4mm       85.65mm       81.25mm  B        270.00 Res1           
+R23        3-0603_L              87.95mm        79.6mm       87.95mm        79.6mm        88.8mm        79.6mm  B        180.00 Res1           
+C20        3-0603_L            29.3001mm       87.05mm     29.3001mm       87.05mm     29.3001mm        87.9mm  B        270.00 Cap            
+C21        3-0603_L            36.6751mm       87.05mm     36.6751mm       87.05mm     36.6751mm        87.9mm  B        270.00 Cap            
+R15        3-0603_L              43.25mm      91.775mm       43.25mm      91.775mm        44.1mm      91.775mm  B        180.00 Res1           
+U4         SOT89M              33.0001mm      87.725mm     33.0001mm      88.175mm     34.5001mm      86.275mm  B         90.00 78L33ABUTR     
+D5         SOT23_N              27.675mm       90.35mm      27.675mm       90.35mm      26.725mm        91.4mm  B        270.00 BAT54C         
+D6         SOT23_N              103.95mm       101.4mm      103.95mm       101.4mm         105mm      100.45mm  T        180.00 BAT54C         
+R28        6-0805_N            103.975mm      104.55mm     103.975mm      104.55mm     104.975mm      104.55mm  T        180.00 Res1           
+C28        6-0805_N              45.25mm      100.27mm       45.25mm      100.27mm       45.25mm      101.27mm  T        270.00 Cap            
+P4         HDR1X2H-180_derece      46.625mm       105.1mm      46.625mm       105.1mm      46.625mm      103.83mm  T         90.00 Header 2H      
+P3         HDR1X2H-180_derece      100.85mm       109.9mm      100.85mm       109.9mm      100.85mm      108.63mm  T         90.00 Header 2H      
+Q2         SOT23_N                40.7mm       101.1mm        40.7mm       101.1mm       39.75mm      100.05mm  T         90.00 2N7002         
+Q1         SOT23_N                40.7mm     105.225mm        40.7mm     105.225mm       39.75mm     104.175mm  T         90.00 BSS84          
+R24        3-0603_L              87.25mm       109.3mm       87.25mm       109.3mm        86.4mm       109.3mm  T        360.00 Res1           
+C1         3-0603_N            59.2999mm       106.1mm     59.2999mm       106.1mm     58.4499mm       106.1mm  T          0.00 Cap            
+C12        3-0603_L              72.35mm       100.9mm       72.35mm       100.9mm        71.5mm       100.9mm  T        360.00 Cap            
+C13        3-0603_L              88.95mm        99.7mm       88.95mm        99.7mm       88.95mm       98.85mm  T         90.00 Cap            
+C18        3-0603_L              91.95mm       101.7mm       91.95mm       101.7mm        92.8mm       101.7mm  T        180.00 Cap            
+C22        C                   99.5999mm       102.3mm     99.5999mm       102.3mm     99.5999mm        99.8mm  T         90.00 CAP-Tantal     
+C24        3-0603_L              95.95mm       109.9mm       95.95mm       109.9mm       95.95mm      109.05mm  T         90.00 Cap            
+C25        3-0603_L              93.65mm       109.9mm       93.65mm       109.9mm       93.65mm      109.05mm  T         90.00 Cap            
+D2         6-0805_-_LED           21.5mm       105.4mm        21.5mm       105.4mm       22.55mm       105.4mm  T        180.00 LED            
+P1         Header_1.27mm_5P      68.325mm     105.215mm      68.325mm     102.675mm      68.325mm     102.675mm  T         90.00 Header 5pin    
+P5         Header_1.27mm_10P      77.965mm        98.9mm       72.25mm        98.9mm       72.25mm        98.9mm  T        360.00 Header 10      
+P6         Header_1.27mm_10P      77.965mm       111.9mm       72.25mm       111.9mm       72.25mm       111.9mm  T        360.00 Header 10      
+Q3         SOT23_N                26.7mm      102.85mm        26.7mm      102.85mm       27.75mm       101.9mm  T        180.00 BC817-40       
+R4         3-0603_N            62.5999mm       106.1mm     62.5999mm       106.1mm     63.4499mm       106.1mm  T        180.00 Res1           
+R12        3-0603_L              90.25mm       109.3mm       90.25mm       109.3mm        89.4mm       109.3mm  T        360.00 Res1           
+R13        3-0603_L              85.85mm       105.2mm       85.85mm       105.2mm       85.85mm      106.05mm  T        270.00 Res1           
+R14        3-0603_L              72.35mm       102.3mm       72.35mm       102.3mm        71.5mm       102.3mm  T        360.00 Res1           
+R17        3-0603_L              87.45mm        99.7mm       87.45mm        99.7mm       87.45mm       98.85mm  T         90.00 Res1           
+R19        3-0603_L                 27mm       106.4mm          27mm       106.4mm       26.15mm       106.4mm  T        360.00 Res1           
+R20        3-0603_L             29.775mm     102.875mm      29.775mm     102.875mm      29.775mm     102.025mm  T         90.00 Res1           
+U2         SOIJ-SM8_N            91.95mm       105.4mm       91.95mm       105.4mm       95.35mm     103.495mm  T        180.00 24FC1025-I/SM  
+U3         SSOP-20               77.95mm       105.4mm       77.95mm       105.4mm      75.025mm     102.125mm  T          0.00 PIC18LF14K50-I/SS
+Y2         32768_SMT_2.1x6.2mm_Crystal       83.95mm       102.2mm       83.95mm       102.2mm       85.22mm       102.2mm  T        180.00 XTAL_SMT       
+C3         6-0805_N            50.2999mm        99.5mm     50.2999mm        99.5mm     49.2999mm        99.5mm  T        360.00 Cap            
+C5         6-0805_N            47.4099mm      100.27mm     47.4099mm      100.27mm     47.4099mm      101.27mm  T        270.00 Cap            
+C7         6-0805_N            49.3999mm       104.5mm     49.3999mm       104.5mm     49.3999mm       105.5mm  T        270.00 Cap            
+C8         6-0805_N            55.3999mm       100.2mm     55.3999mm       100.2mm     55.3999mm       101.2mm  T        270.00 Cap            
+R5         6-0805_N            50.2999mm       101.6mm     50.2999mm       101.6mm     51.2999mm       101.6mm  T        180.00 Res1           
+R6         6-0805_N            54.4999mm         103mm     54.4999mm         103mm     55.4999mm         103mm  T        180.00 Res1           
+R9         6-0805_N            53.2999mm       100.2mm     53.2999mm       100.2mm     53.2999mm        99.2mm  T         90.00 Res1           
+R10        6-0805_N            51.4999mm       104.5mm     51.4999mm       104.5mm     51.4999mm       103.5mm  T         90.00 Res1           
+R21        6-0805_N               43.8mm     105.975mm        43.8mm     105.975mm        43.8mm     106.975mm  T        270.00 Res1           
+U1         TSSOP-14N           61.6999mm         102mm     61.6999mm         102mm     58.8499mm      103.95mm  T          0.00 #NAME?         
+R25        3-0603_N             71.425mm     105.875mm      71.425mm     105.875mm      71.425mm     105.025mm  T         90.00 Res1           
+P2         USB_Mini_B_Female_N_2       12.55mm       105.4mm        12.4mm       105.4mm        15.4mm         107mm  T        270.00 USB Mini B     
+D4         SOT23_N               99.85mm       105.2mm       99.85mm       105.2mm       100.9mm      106.15mm  B        180.00 BAT54C         
+D3         SOT23_N             35.5501mm       102.3mm     35.5501mm       102.3mm     34.5001mm      101.35mm  B        360.00 BAT54C         
+C27        3-0603_N             44.575mm        99.5mm      44.575mm        99.5mm      45.425mm        99.5mm  B        180.00 Cap            
+R27        3-0603_L              91.55mm         106mm       91.55mm         106mm        92.4mm         106mm  B        180.00 Res1           
+C26        3-0603_L              91.55mm       107.3mm       91.55mm       107.3mm        92.4mm       107.3mm  B        180.00 Cap            
+C2         3-0603_L             70.525mm     111.075mm      70.525mm     111.075mm      70.525mm     110.225mm  B         90.00 Cap            
+C14        3-0603_L             74.875mm       102.7mm      74.875mm       102.7mm      74.875mm      101.85mm  B         90.00 Cap            
+C15        3-0603_L              81.35mm       102.7mm       81.35mm       102.7mm       81.35mm      103.55mm  B        270.00 Cap            
+C16        3-0603_L              84.45mm       105.3mm       84.45mm       105.3mm       84.45mm      106.15mm  B        270.00 Cap            
+C17        3-0603_L              82.65mm       105.3mm       82.65mm       105.3mm       82.65mm      106.15mm  B        270.00 Cap            
+R18        3-0603_L              10.35mm       102.4mm       10.35mm       102.4mm        11.2mm       102.4mm  B        180.00 Res1           
+U6         TSSOP-ST8_M           88.35mm       109.6mm       88.35mm       109.6mm       91.25mm     110.575mm  B        180.00 MCP79402       
+U8         LGA_16                89.25mm      101.95mm       89.25mm      101.95mm      88.025mm      100.95mm  B        360.00 LIS3DH         
+U9         SOT-143B               10.4mm      105.36mm        10.4mm      105.35mm        9.65mm      106.57mm  B         90.00 PRTR5V0U2X     
+Y1         4x2.5mm_&_3.2x2.5_mm_SMD_CRYSTAL_-_duplicate      78.125mm     102.675mm      78.125mm     102.675mm      76.725mm     103.625mm  B        360.00 Crystal Oscillator
+Y3         32768_SMT_2.1x6.2mm_Crystal       94.95mm       109.9mm       94.95mm       109.9mm       96.22mm       109.9mm  B        180.00 XTAL_SMT       
+B1         Buzzer_9x5.5_mm        21.5mm       105.4mm        21.5mm       105.4mm        21.5mm      107.94mm  B        270.00 Buzzer 5V r=12mm, h=7.5 mm
+C4         6-0805_N            50.2999mm         103mm     50.2999mm         103mm     49.2999mm         103mm  B        360.00 Cap            
+C6         6-0805_N            51.3999mm       100.2mm     51.3999mm       100.2mm     51.3999mm       101.2mm  B        270.00 Cap            
+C9         6-0805_N            55.5999mm       104.1mm     55.5999mm       104.1mm     55.5999mm       103.1mm  B         90.00 Cap            
+C10        6-0805_N            59.2999mm       101.3mm     59.2999mm       101.3mm     58.2999mm       101.3mm  B        360.00 Cap            
+C11        6-0805_N            60.9999mm       104.2mm     60.9999mm       104.2mm     60.9999mm       103.2mm  B         90.00 Cap            
+D1         DL-35_-_S             45.15mm       101.3mm       45.15mm       101.3mm      43.425mm       101.3mm  B        360.00 LL4148         
+R1         6-0805_N            63.3999mm       104.2mm     63.3999mm       104.2mm     63.3999mm       103.2mm  B         90.00 Res1           
+R2         6-0805_N            53.4999mm       104.1mm     53.4999mm       104.1mm     53.4999mm       105.1mm  B        270.00 Res1           
+R3         6-0805_N            53.4999mm       100.2mm     53.4999mm       100.2mm     53.4999mm       101.2mm  B        270.00 Res1           
+R7         6-0805_N            50.2999mm       105.1mm     50.2999mm       105.1mm     51.2999mm       105.1mm  B        180.00 Res1           
+R8         6-0805_N            55.5999mm       100.2mm     55.5999mm       100.2mm     55.5999mm       101.2mm  B        270.00 Res1           
+R11        6-0805_N            58.5999mm       104.2mm     58.5999mm       104.2mm     58.5999mm       103.2mm  B         90.00 Res1           
+R16        6-0805_N            49.2999mm       100.2mm     49.2999mm       100.2mm     49.2999mm        99.2mm  B         90.00 Res1           
+R26        3-0603_L             76.625mm       108.8mm      76.625mm       108.8mm      75.775mm       108.8mm  B        360.00 Res1           
+C19        3-0603_L               92.5mm       99.65mm        92.5mm       99.65mm        92.5mm        98.8mm  B         90.00 Cap            
+C23        3-0603_L              87.25mm       112.3mm       87.25mm       112.3mm        86.4mm       112.3mm  B        360.00 Cap            
+R22        3-0603_L              85.65mm        99.6mm       85.65mm        99.6mm       85.65mm      100.45mm  B        270.00 Res1           
+R23        3-0603_L              87.95mm        98.8mm       87.95mm        98.8mm        88.8mm        98.8mm  B        180.00 Res1           
+C20        3-0603_L            29.3001mm      106.25mm     29.3001mm      106.25mm     29.3001mm       107.1mm  B        270.00 Cap            
+C21        3-0603_L            36.6751mm      106.25mm     36.6751mm      106.25mm     36.6751mm       107.1mm  B        270.00 Cap            
+R15        3-0603_L              43.25mm     110.975mm       43.25mm     110.975mm        44.1mm     110.975mm  B        180.00 Res1           
+U4         SOT89M              33.0001mm     106.925mm     33.0001mm     107.375mm     34.5001mm     105.475mm  B         90.00 78L33ABUTR     
+D5         SOT23_N              27.675mm      109.55mm      27.675mm      109.55mm      26.725mm       110.6mm  B        270.00 BAT54C         
+

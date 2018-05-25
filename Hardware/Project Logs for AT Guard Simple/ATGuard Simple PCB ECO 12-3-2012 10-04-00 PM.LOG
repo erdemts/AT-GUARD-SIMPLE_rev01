@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VBAT Pin=U6-3
+Added Component: Designator=C26(3-0603_L)
+Added Component: Designator=D4(SOT23_N)
+Added Component: Designator=R27(3-0603_L)
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=VBAT Pin=D4-1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=R27-2
+Added Pin To Net: NetName=NetC26_2 Pin=U6-3
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetD4_3 Pin=D4-3
+Added Pin To Net: NetName=NetD4_3 Pin=R27-1
+Added Net: Name=NetD4_3
+Added Member To Class: ClassName=AT Guard Simple RTC Member=Component C26 Cap
+Added Member To Class: ClassName=AT Guard Simple RTC Member=Component D4 BAT54C
+Added Member To Class: ClassName=AT Guard Simple RTC Member=Component R27 Res1
+Added Room: Name=AT Guard Simple Main
+Added Room: Name=AT Guard Simple Memory
+Added Room: Name=AT Guard Simple Mems
+Added Room: Name=AT Guard Simple Power
+Added Room: Name=AT Guard Simple RTC
+Added Room: Name=RF_125KHz

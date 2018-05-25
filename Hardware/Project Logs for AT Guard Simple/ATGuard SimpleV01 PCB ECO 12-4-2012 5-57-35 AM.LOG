@@ -1,0 +1,4 @@
+Added Component: Designator=D4(SOT23_N)
+Added Pin To Net: NetName=+VBAT Pin=D4-1
+Added Pin To Net: NetName=NetD4_3 Pin=D4-3
+Added Member To Class: ClassName=AT Guard Simple RTC Member=Component D4 BAT54C

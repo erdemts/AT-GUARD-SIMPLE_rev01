@@ -1,0 +1,4 @@
+Added Component: Designator=D3(SOT23_N)
+Added Pin To Net: NetName=+VUSB Pin=D3-1
+Added Pin To Net: NetName=+VBAT Pin=D3-3
+Added Member To Class: ClassName=AT Guard Simple Power Member=Component D3 BAT54C
